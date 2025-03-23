@@ -1,5 +1,5 @@
 {
-    "European_Union": [
+    "EU": [
         "Austria",
         "Albania",
         "Belgium",
@@ -29,15 +29,8 @@
         "Spain",
         "Sweden"
     ],
-    "West_Not_EU": [
-        "United States of America",
-        "United Kingdom",
-        "Canada",
-        "Australia",
-        "New Zealand",
-        "Norway",
-        "Switzerland",
-        "Iceland"
+    "UK": [
+        "United Kingdom"
     ],
     "African": [
         "Algeria",
@@ -60,7 +53,6 @@
         "Ethiopia",
         "Gabon",
         "Gambia",
-        "Guyana",
         "Ghana",
         "Guinea",
         "Guinea-Bissau",
@@ -95,9 +87,18 @@
         "Uganda",
         "Zambia",
         "Zimbabwe",
-        "United Republic of Tanzania"
+        "United Republic of Tanzania",
+        "Côte d’Ivoire",
+        "Guyana"
     ],
     "Others": [
+        "United States of America",
+        "Canada",
+        "Australia",
+        "New Zealand",
+        "Norway",
+        "Switzerland",
+        "Iceland",
         "Türkiye",
         "Trinidad and Tobago",
         "Republic of Korea",
@@ -182,5 +183,11 @@
         "Venezuela",
         "Viet Nam",
         "Yemen"
+    ],
+    "Uncategorised": [
+        "Unknown",
+        "Stateless",
+        "International Waters",
+        "Neutral Zone"
     ]
 }
