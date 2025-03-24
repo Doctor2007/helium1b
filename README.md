@@ -15,8 +15,8 @@ This project aims to analyze waste management practices in Ghana from the perspe
 To set up the project, clone the repository and install the required dependencies:
 
 ```bash
-git clone <repository-url>
-cd Helium1b
+git clone https://github.com/Doctor2007/helium1b.git
+cd helium1b
 pip install -r requirements.txt
 ```
 
