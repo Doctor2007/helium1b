@@ -1,10 +1,4 @@
 pandas
 matplotlib
-numpy
-scikit-learn
 jupyter
 seaborn
-geopandas
-folium
-openpyxl
-requests
